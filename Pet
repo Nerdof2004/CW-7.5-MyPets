@@ -1,3 +1,4 @@
+// Saelee Johnson
 import java.text.DecimalFormat; // to format the weight in pounds
 public abstract class Pet
 {

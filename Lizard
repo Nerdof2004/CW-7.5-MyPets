@@ -1,3 +1,4 @@
+// Saelee Johnson
 public class Lizard extends Pet
 {
     private String species;
